@@ -1,0 +1,6 @@
+@Auidit.API_HostAddress = http://localhost:5232
+
+GET {{Auidit.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
